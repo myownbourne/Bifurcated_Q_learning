@@ -6,4 +6,4 @@ Step 2: Prepare MIMIC sepsis dataset according to https://github.com/microsoft/m
 
 Step 3: Run load_data_new_comp.ipynb to obtain the final data file.
 
-Step 4: Run main.r. and main_add.r to get the results.
+Step 4: Run main.r and main_add.r to get the results.
