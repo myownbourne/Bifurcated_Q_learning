@@ -2,7 +2,7 @@
 
 To reproduce the numerical results, first run the corresponding simulation script `Fig_XXX.r`. This script generates the simulation results and saves them as `.csv` files in the working directory.
 
-After the result files are obtained, run the plotting script `PLOT_models.r` to generate the figures reported in the paper. The argument `setting` in `PLOT_models.r` specifies which figure to reproduce. The correspondence between the `setting` parameter in the code and figures is as follows:
+After obtaining the result files, run the plotting script `PLOT_models.r` to generate the figures reported in the paper. The argument `setting` in `PLOT_models.r` specifies which figure to reproduce. The correspondence between the `setting` parameter and the figures is as follows:
 
 setting        Figure
 1             Fig 3 (a) and (c)
