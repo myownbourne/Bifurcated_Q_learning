@@ -4,11 +4,11 @@ To reproduce the numerical results, first run the corresponding simulation scrip
 
 After the result files are obtained, run the plotting script `PLOT_models.r` to generate the figures reported in the paper. The argument `setting` in `PLOT_models.r` specifies which figure to reproduce. The correspondence between `setting` and figures is as follows:
 
-setting   Figure
+setting        Figure
 1             Fig 3 (a) and (c)
-1.5          Fig S1
+1.5           Fig S1
 2             Fig S3
-22           Fig S5
+22            Fig S5
 3             Fig 4 (a),(b),(c),(g)
 4             Fig S2
 5             Fig S8
@@ -18,7 +18,7 @@ setting   Figure
 
 The figures for TPR and FPR are generated separately using the script `PLOT_tpr_fpr.r`.
 
-setting   Figure
+setting       Figure
 1             Fig 3 (c)
 2             Fig 4 (d)
-22           Fig 4 (e)
+22            Fig 4 (e)
